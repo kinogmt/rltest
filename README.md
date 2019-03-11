@@ -6,6 +6,13 @@ Test code for Readline() cleanup issue.
 Readline() looks like cleaning up the last line
 when it does not include a \n at the end.
 
+## Test Code
+
+[rltest.go][testcode]
+
+ [testcode]: ./rltest.go
+
+
 ## Build
 
 ```
